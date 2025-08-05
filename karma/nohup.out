@@ -1,0 +1,226 @@
+Запускаю get_info.py для обновления данных...
+ * Serving Flask app 'api'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8453
+ * Running on http://192.168.0.101:8453
+[33mPress CTRL+C to quit[0m
+Generated 2FA code: 767566
+Logged in as: Jammeren2
+Data successfully saved to group_data.json
+67.209.128.84 - - [26/Jul/2025 01:10:20] "GET /api/group HTTP/1.1" 200 -
+127.0.0.1 - - [26/Jul/2025 01:11:43] "GET /api/group HTTP/1.1" 200 -
+127.0.0.1 - - [26/Jul/2025 01:16:43] "GET /api/group HTTP/1.1" 200 -
+Generated 2FA code: 524888
+Logged in as: Jammeren2
+Data successfully saved to group_data.json
+127.0.0.1 - - [26/Jul/2025 01:23:56] "GET /api/group HTTP/1.1" 200 -
+127.0.0.1 - - [26/Jul/2025 01:26:12] "GET /api/group HTTP/1.1" 200 -
+Generated 2FA code: 754198
+Logged in as: Jammeren2
+Data successfully saved to group_data.json
+127.0.0.1 - - [26/Jul/2025 01:28:57] "GET /api/group HTTP/1.1" 200 -
+127.0.0.1 - - [26/Jul/2025 01:31:12] "GET /api/group HTTP/1.1" 200 -
+127.0.0.1 - - [26/Jul/2025 01:33:16] "GET /api/group HTTP/1.1" 200 -
+Generated 2FA code: 407942
+Logged in as: Jammeren2
+Data successfully saved to group_data.json
+Generated 2FA code: 319891
+Logged in as: Jammeren2
+Data successfully saved to group_data.json
+Generated 2FA code: 945393
+Logged in as: Jammeren2
+Data successfully saved to group_data.json
+Generated 2FA code: 503851
+Logged in as: Jammeren2
+Data successfully saved to group_data.json
+Generated 2FA code: 680995
+Logged in as: Jammeren2
+Data successfully saved to group_data.json
+Generated 2FA code: 941505
+Logged in as: Jammeren2
+Data successfully saved to group_data.json
+Generated 2FA code: 819027
+Logged in as: Jammeren2
+Data successfully saved to group_data.json
+Generated 2FA code: 878926
+Logged in as: Jammeren2
+Data successfully saved to group_data.json
+Generated 2FA code: 885001
+Logged in as: Jammeren2
+Data successfully saved to group_data.json
+Generated 2FA code: 856442
+Logged in as: Jammeren2
+Data successfully saved to group_data.json
+Generated 2FA code: 574356
+Logged in as: Jammeren2
+Data successfully saved to group_data.json
+Generated 2FA code: 749981
+Logged in as: Jammeren2
+Data successfully saved to group_data.json
+Generated 2FA code: 317568
+Logged in as: Jammeren2
+Data successfully saved to group_data.json
+Generated 2FA code: 743648
+Logged in as: Jammeren2
+Data successfully saved to group_data.json
+Generated 2FA code: 851993
+Logged in as: Jammeren2
+Data successfully saved to group_data.json
+Generated 2FA code: 303353
+Logged in as: Jammeren2
+Data successfully saved to group_data.json
+Generated 2FA code: 958511
+Logged in as: Jammeren2
+Data successfully saved to group_data.json
+Generated 2FA code: 916514
+Logged in as: Jammeren2
+Data successfully saved to group_data.json
+Generated 2FA code: 136632
+Logged in as: Jammeren2
+Data successfully saved to group_data.json
+Generated 2FA code: 766062
+Logged in as: Jammeren2
+Data successfully saved to group_data.json
+Generated 2FA code: 014438
+Logged in as: Jammeren2
+Data successfully saved to group_data.json
+Generated 2FA code: 426098
+Logged in as: Jammeren2
+Data successfully saved to group_data.json
+Generated 2FA code: 278393
+Logged in as: Jammeren2
+Data successfully saved to group_data.json
+Generated 2FA code: 810795
+Logged in as: Jammeren2
+Data successfully saved to group_data.json
+Generated 2FA code: 697663
+Logged in as: Jammeren2
+Data successfully saved to group_data.json
+Generated 2FA code: 722746
+Logged in as: Jammeren2
+Data successfully saved to group_data.json
+Generated 2FA code: 679008
+Logged in as: Jammeren2
+Data successfully saved to group_data.json
+Generated 2FA code: 263786
+Logged in as: Jammeren2
+Data successfully saved to group_data.json
+Generated 2FA code: 403536
+Logged in as: Jammeren2
+Data successfully saved to group_data.json
+Generated 2FA code: 048403
+Logged in as: Jammeren2
+Data successfully saved to group_data.json
+Generated 2FA code: 899084
+Logged in as: Jammeren2
+Data successfully saved to group_data.json
+Generated 2FA code: 706108
+Logged in as: Jammeren2
+Data successfully saved to group_data.json
+Generated 2FA code: 237803
+Logged in as: Jammeren2
+Data successfully saved to group_data.json
+Generated 2FA code: 425990
+Logged in as: Jammeren2
+Data successfully saved to group_data.json
+Generated 2FA code: 608141
+Logged in as: Jammeren2
+Data successfully saved to group_data.json
+Generated 2FA code: 706263
+Logged in as: Jammeren2
+Data successfully saved to group_data.json
+Generated 2FA code: 798077
+Logged in as: Jammeren2
+Data successfully saved to group_data.json
+Generated 2FA code: 134314
+Logged in as: Jammeren2
+Data successfully saved to group_data.json
+Generated 2FA code: 695905
+Logged in as: Jammeren2
+Data successfully saved to group_data.json
+Generated 2FA code: 716346
+Logged in as: Jammeren2
+Data successfully saved to group_data.json
+Generated 2FA code: 008872
+Logged in as: Jammeren2
+Data successfully saved to group_data.json
+Generated 2FA code: 739447
+Logged in as: Jammeren2
+Data successfully saved to group_data.json
+Generated 2FA code: 069656
+Logged in as: Jammeren2
+Data successfully saved to group_data.json
+Generated 2FA code: 461132
+Logged in as: Jammeren2
+Data successfully saved to group_data.json
+Generated 2FA code: 599658
+Logged in as: Jammeren2
+Data successfully saved to group_data.json
+Generated 2FA code: 233000
+Logged in as: Jammeren2
+Data successfully saved to group_data.json
+Generated 2FA code: 453451
+Logged in as: Jammeren2
+Data successfully saved to group_data.json
+Generated 2FA code: 284617
+Logged in as: Jammeren2
+Data successfully saved to group_data.json
+Generated 2FA code: 363895
+Logged in as: Jammeren2
+Data successfully saved to group_data.json
+Generated 2FA code: 127819
+Logged in as: Jammeren2
+Data successfully saved to group_data.json
+Generated 2FA code: 647443
+Logged in as: Jammeren2
+Data successfully saved to group_data.json
+Generated 2FA code: 401165
+Logged in as: Jammeren2
+Data successfully saved to group_data.json
+Generated 2FA code: 597217
+Logged in as: Jammeren2
+Data successfully saved to group_data.json
+127.0.0.1 - - [26/Jul/2025 10:24:50] "GET /api/group HTTP/1.1" 200 -
+198.105.124.70 - - [26/Jul/2025 10:25:27] "GET /api/group HTTP/1.1" 200 -
+198.105.124.70 - - [26/Jul/2025 10:25:28] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+127.0.0.1 - - [26/Jul/2025 10:30:45] "GET /api/group HTTP/1.0" 200 -
+Generated 2FA code: 083083
+Logged in as: Jammeren2
+Data successfully saved to group_data.json
+127.0.0.1 - - [26/Jul/2025 10:31:46] "GET /api/group HTTP/1.0" 200 -
+127.0.0.1 - - [26/Jul/2025 10:32:26] "GET /api/group HTTP/1.0" 200 -
+127.0.0.1 - - [26/Jul/2025 10:33:49] "GET /api/group HTTP/1.0" 200 -
+127.0.0.1 - - [26/Jul/2025 10:35:16] "GET /api/group HTTP/1.0" 200 -
+127.0.0.1 - - [26/Jul/2025 10:37:27] "GET /api/group HTTP/1.0" 200 -
+127.0.0.1 - - [26/Jul/2025 10:40:08] "GET /api/group HTTP/1.0" 200 -
+127.0.0.1 - - [26/Jul/2025 10:40:17] "GET /api/group HTTP/1.0" 200 -
+Generated 2FA code: 545817
+Logged in as: Jammeren2
+Data successfully saved to group_data.json
+127.0.0.1 - - [26/Jul/2025 10:41:18] "GET /api/group HTTP/1.0" 200 -
+127.0.0.1 - - [26/Jul/2025 10:43:12] "GET /api/group HTTP/1.0" 200 -
+127.0.0.1 - - [26/Jul/2025 10:43:19] "GET /api/group HTTP/1.0" 200 -
+127.0.0.1 - - [26/Jul/2025 10:43:45] "GET /api/group HTTP/1.0" 200 -
+127.0.0.1 - - [26/Jul/2025 10:44:48] "GET /api/group HTTP/1.0" 200 -
+127.0.0.1 - - [26/Jul/2025 10:46:56] "GET /api/group HTTP/1.0" 200 -
+127.0.0.1 - - [26/Jul/2025 10:46:59] "GET /api/group HTTP/1.0" 200 -
+127.0.0.1 - - [26/Jul/2025 10:47:17] "GET /api/group HTTP/1.0" 200 -
+127.0.0.1 - - [26/Jul/2025 10:47:55] "GET /api/group HTTP/1.0" 200 -
+127.0.0.1 - - [26/Jul/2025 10:48:06] "GET /api/group HTTP/1.0" 200 -
+127.0.0.1 - - [26/Jul/2025 10:48:20] "GET /api/group HTTP/1.0" 200 -
+127.0.0.1 - - [26/Jul/2025 10:49:18] "GET /api/group HTTP/1.0" 200 -
+127.0.0.1 - - [26/Jul/2025 10:49:23] "GET /api/group HTTP/1.0" 200 -
+127.0.0.1 - - [26/Jul/2025 10:49:49] "GET /api/group HTTP/1.0" 200 -
+127.0.0.1 - - [26/Jul/2025 10:50:15] "GET /api/group HTTP/1.0" 200 -
+Generated 2FA code: 425171
+Logged in as: Jammeren2
+Data successfully saved to group_data.json
+127.0.0.1 - - [26/Jul/2025 10:51:47] "GET /api/group HTTP/1.0" 200 -
+127.0.0.1 - - [26/Jul/2025 10:52:00] "GET /api/group HTTP/1.0" 200 -
+127.0.0.1 - - [26/Jul/2025 10:53:20] "GET /api/group HTTP/1.0" 200 -
+127.0.0.1 - - [26/Jul/2025 10:54:49] "GET /api/group HTTP/1.0" 200 -
+127.0.0.1 - - [26/Jul/2025 10:55:59] "GET /api/group HTTP/1.0" 200 -
+127.0.0.1 - - [26/Jul/2025 10:58:20] "GET /api/group HTTP/1.0" 200 -
+127.0.0.1 - - [26/Jul/2025 10:58:21] "GET /api/group HTTP/1.0" 200 -
